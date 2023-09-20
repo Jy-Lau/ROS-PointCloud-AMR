@@ -1,6 +1,6 @@
 # Description
 
-This PCL & ROS project serves as a proof of concept for an autonomous vehicle to perform segmentation and clustering on moving cars & objects from the surrounding. The real world data set is obtained from a well-known benchmark
+This PCL & ROS project serves as a proof of concept for an autonomous vehicle to perform segmentation and clustering on moving cars & objects from the surrounding using Point Cloud data. The real world data set is obtained from a well-known benchmark
 for computer vision tasks in autonomous driving - The KITTI dataset can be accessed and downloaded from the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/).
 
 <div style="display: flex;">
