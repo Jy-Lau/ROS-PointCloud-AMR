@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- -->
+<launch>
+
+<include file="$(find turtlebot3_gazebo)/launch/turtlebot3_world.launch"/>
+<include file="$(find rtabmap_demos)/launch/demo_turtlebot3_navigation.launch"/>
+</launch>
